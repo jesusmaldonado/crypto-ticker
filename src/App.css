@@ -24,9 +24,47 @@
 
 @keyframes App-logo-spin {
   from {
-    transform: rotate(0deg);
+    transform: rotate(0deg);;
   }
   to {
     transform: rotate(360deg);
   }
+}
+
+.zrx {
+  width: 32px;
+  height: 32px;
+  background-image: url("../node_modules/cryptocurrency-icons/svg/color/zrx.svg");
+}
+
+.etc {
+  background-image: url("../node_modules/cryptocurrency-icons/svg/color/etc.svg");
+}
+
+.eth {
+  background-image: url("../node_modules/cryptocurrency-icons/svg/color/eth.svg");
+}
+
+.btc {
+  background-image: url("../node_modules/cryptocurrency-icons/svg/color/btc.svg");
+}
+
+.bch {
+  background-image: url("../node_modules/cryptocurrency-icons/svg/color/bch.svg");
+}
+
+.eur {
+  background-image: url("../node_modules/cryptocurrency-icons/svg/color/eur.svg");
+}
+
+.gbp {
+  background-image: url("../node_modules/cryptocurrency-icons/svg/color/gbp.svg");
+}
+
+.bat {
+  background-image: url("../node_modules/cryptocurrency-icons/svg/color/bat.svg");
+}
+
+.usd, .usc {
+  background-image: url("../node_modules/cryptocurrency-icons/svg/color/usd.svg");
 }
